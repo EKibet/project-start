@@ -13,20 +13,13 @@ body {
 	background-color:#fff;
 }
 #page {overflow-x:hidden; position:relative; z-index:5;}
-
-.preloader_hide {opacity:0;}
-#preloader {position:fixed; left:50%; top:50%; width:32px; height:32px; margin:-16px 0 0 -16px; display:block;}
-
 section {background-color:#fff;}
-
 .container {padding-left:0; padding-right:0;}
-
 .parallax {
 	background-position:0 0;
 	width:100%;
 	background-attachment:fixed !important;
 }
-
 a, input, select, textarea {
 	vertical-align:top;
 	outline:none !important;
@@ -117,8 +110,6 @@ header {
 	height:80px;
 	background-color:#fff;
 }
-
-
 /* __________ Logo __________ */
 .logo {float:left;}
 .logo a {
@@ -219,3 +210,11 @@ header {
 .sub-menu ul li:last-child a {border-bottom:0;}
 
 .sub-menu ul li.active a, .sub-menu ul li a:hover {color:#fff !important; background:#161616;}
+.padbot0{
+	padding-bottom: 0 !important;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	.parallax, .cleancode_block, #team, .top_slider .slide1, .top_slider .slide2, .top_slider .slide3 {background-attachment:scroll !important; background-position:0 0;}
+	.top_slider .slide1, .top_slider .slide2, .top_slider .slide3 {background-size:cover !important;}
+
+}

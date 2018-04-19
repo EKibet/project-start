@@ -1,0 +1,22 @@
+
+h1{
+  font-family: 'roboto',sans-serif;
+  font-size: 40px;
+  color: red;
+}
+p{
+  text-align: center;
+  color: blue;
+}
+ul{
+  display: block;
+}
+ul li{
+  display: inline-block;
+
+}
+ul li a{
+  display: inline-block;
+  text-decoration: none;
+}
+a:hover{color: black;}

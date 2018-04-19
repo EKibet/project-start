@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#444444">
+<title>Desktop Backgrounds · Pexels · Free Stock Photos</title>
+<meta name="description" content="Find the best Desktop Backgrounds. Download all wallpapers for free." />
+<meta name="keywords" content="Free Stock Photos, high quality images, desktop backgrounds, Desktop Backgrounds" />
+<meta property="og:image" content="https://images.pexels.com/photos/7919/pexels-photo.jpg?h=1000&w=1500&fit=crop&mark=https%3A%2F%2Fassets.imgix.net%2F~text%3Ftxtclr%3Dfff%26txt%3DFree+Desktop+Backgrounds+Photos%26txtsize%3D120%26txtpad%3D20%26bg%3D80000000%26txtfont%3DAvenir-Heavy%26txtalign%3Dcenter%26w%3D1300&markalign=center%2Cmiddle&txt=pexels.com&txtalign=center&txtsize=60&txtclr=eeffffff&txtfont=Avenir-Heavy&txtshad=10" />
+<link href="https://www.pexels.com/search/desktop%20backgrounds/" rel="canonical" />
+<link rel="alternate" hreflang="en" href="https://www.pexels.com/search/desktop%20backgrounds/" />
+<link rel="alternate" hreflang="de" href="https://www.pexels.com/de/suche/desktop%20hintergrundbilder/" />
+<link href="https://www.pexels.com/rss/" rel="alternate" title="RSS" type="application/rss+xml" />
+<link rel="stylesheet" media="all" href="/assets/application-17630c7e14d64f32f96612f120c071cf30ab55833ce69caf6bdcfa237ad05ed5.css" />
+<script src="/assets/app-sync-e9582f77448151777f436593394954cfe240c9ea7266e220a7b24e0c21ff22a6.js"></script>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="31Eu4Ef53xMhniT3I5i8veuNm4z/gUMzkCRDBdZaJEwtyQJwYb3vpa0b0V9jhMHXtv16vleWuWyoc3Krytyf4Q==" />
+<link rel="search" type="application/opensearchdescription+xml" title="Pexels" href="/opensearch.xml" />
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link rel="icon" sizes="192x192" href="/assets/icons/pexels-icon-c89972421096df12c2b564575d6df896b612ca415b706033d2e44562f97343bc.png">
+<link rel="apple-touch-icon" href="/assets/icons/apple-touch-icon-e1336691483e7b52fb74222ba02f37bd256644ba5bc6ca81baecfaf1dc62a86b.png">
+<meta name="application-name" content="Pexels" />
+<script>
+//<![CDATA[
+i18n_global = {"collection_create":"Create Collection","collection_save":"Save to Collection","collection_title":"Title","collection_view":"View Your Collections →","following":"Following"}
+//]]>
+</script>
+</head>
+<body class="navbar__large-padding-top">
+<div class="page-wrap">
+<header class="navbar">
+<h2 class="navbar__title">
+<a class="navbar__title__anchor" title="Free Stock Photos" data-track-action="navbar" data-track-label="logo" href="/">
+<span class="sr-only">Pexels</span>
+</a> </h2>
+<div class="navbar__mobile-ctrl visible-md">
+<button class="navbar__toggle navbar__toggle--menu" type="button" data-track-action="navbar" data-track-label="mobile-menu">
+<span class="sr-only">Toggle navigation</span>
+<span class="navbar__toggle__bar"></span>
+<span class="navbar__toggle__bar"></span>
+<span class="navbar__toggle__bar"></span>
+</button>
+</div>
+<div class="navbar__md-nav navbar__md-nav--search navbar__md-nav--open">
+<form class="navbar__search pull-left" role="search" method="get" action="/">
+<input required="required" placeholder="Search for free photos" name="s" value="desktop backgrounds" type="search" autocapitalize="none" />
+<button class="navbar__search__icon" title="Search" data-track-action="navbar" data-track-label="searchicon">
+<i class="icon-search"></i>
+</button>
+</form>
+</div>
+<div class="navbar__md-nav navbar__md-nav--menu">
+<ul class="navbar__list pull-right">
+<li class="navbar__dropdown">
+<a href="/discover/" data-dropdown-selector="#browse-dropdown" data-is-clickable="true" class="js-dropdown" data-track-action="navbar" data-track-label="browse">
+Browse
+<svg width="8" class="navbar__icon-caret" height="5" viewBox="0 0 8 5" xmlns="http://www.w3.org/2000/svg"><path d="M6.752 1.514C7.472.678 7.158 0 6.057 0H1.052C-.05 0-.332.654.426 1.46L2.38 3.54c.758.806 1.952.786 2.674-.054l1.698-1.972z" fill="#FFFFFF" fill-rule="evenodd"></path></svg>
+</a>
+<div class="btn__dropdown" id="browse-dropdown">
+<ul>
+<li>
+<a href="/discover/" title="Beautiful pictures" data-track-action="navbar" data-track-label="discover">Discover Photos</a>
+</li>
+<li>
+<a href="/popular-photos/" data-track-action="navbar" data-track-label="popular">Popular Photos</a>
+</li>
+<li>
+<a href="/popular-searches/" data-track-action="navbar" data-track-label="popular-searches">Popular Searches</a>
+</li>
+<li>
+<a href="/leaderboard/" data-track-action="navbar" data-track-label="leaderboard">Leaderboard</a>
+</li>
+<li>
+<a href="/challenges/" data-track-action="navbar" data-track-label="challenge">Photo Challenges</a>
+</li>
+<li>
+<a href="/search/color:%20brown/" data-track-action="navbar" data-track-label="colors">Photos by Color</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/photo-license/" title="Stock photo license" data-track-action="navbar" data-track-label="license">License</a>
+</li>
+<li class="hidden-xl">
+<a href="/pro/" data-track-action="navbar" data-track-label="tools">Tools</a>
+</li>
+<li class="show-if-signed-in-inline hide-if-signed-in@md">
+<a href="/me/" rel="nofollow" data-track-action="navbar" data-track-label="avatar">
+<img class="navbar__list__img js-avatar" height="30" width="30" />
+<span class="navbar__list__name js-user-name"></span>
+</a>
+</li>
+<li>
+<a href="/submit-photos/" class="hide-if-signed-in btn-primary navbar__cta" data-track-action="navbar" data-track-label="submit">
+Contribute Photos
+</a>
+<a href="/upload/" class="show-if-signed-in btn-primary navbar__cta" data-track-action="navbar" data-track-label="submit" rel="nofollow">
+Contribute Photos
+</a>
+</li>
+<li class="navbar__dropdown">
+<a href="#profile-dropdown" class="js-dropdown" data-track-action="navbar" data-track-label="more">
+<div class="">
+<span class="icon-dot"></span>
+<span class="icon-dot"></span>
+<span class="icon-dot"></span>
+</div>
+</a>
+<div class="btn__dropdown" id="profile-dropdown">
+<ul>
+<li class="hide-if-signed-in">
+<a href="/login/" rel="nofollow" data-track-action="navbar" data-track-label="login">Login</a>
+</li>
+<li class="hide-if-signed-in">
+<a href="/join/" rel="nofollow" data-track-action="navbar" data-track-label="signup">Sign Up</a>
+</li>
+<li class="show-if-signed-in">
+<a href="/me/" rel="nofollow" data-track-action="navbar" data-track-label="profile">Your Profile</a>
+</li>
+<li class="show-if-signed-in">
+<a href="/me/collections/" rel="nofollow" data-track-action="navbar" data-track-label="collections">Your Collections</a>
+</li>
+<li class="show-if-signed-in">
+<a href="/edit-profile/" rel="nofollow" data-track-action="navbar" data-track-label="setting">Settings</a>
+</li>
+<li>
+<a href="#" rel="nofollow" class="js-show-switch-locale" data-track-action="navbar" data-track-label="switch-locale">Change Language</a>
+</li>
+<li class="show-if-signed-in">
+<a href="/logout/" rel="nofollow" data-track-action="navbar" data-track-label="logout" class="js-logout-btn">Logout</a>
+ </li>
+<li class="show-if-signed-in">
+<hr>
+</li>
+<li>
+<a href="/pro/" class="visible-xl" data-track-action="navbar" data-track-label="apps">Apps &amp; PS Plugin</a>
+</li>
+<li>
+<a href="https://videos.pexels.com/" title="Free stock videos – Pexels Videos" target="_blank" data-track-action="navbar" data-track-label="videos">Free Videos</a>
+</li>
+<li>
+<a href="/about/" data-track-action="navbar" data-track-label="about" rel="nofollow">About Us</a>
+</li>
+<li>
+<a href="/faq/" data-track-action="navbar" data-track-label="faq" rel="nofollow">FAQ</a>
+</li>
+<li>
+<a href="/imprint/" rel="nofollow" data-track-action="navbar" data-track-label="imprint">Imprint &amp; Terms</a>
+</li>
+</ul>
+<ul class="navbar__horizontal-list">
+<li class="l-lg-12"><hr></li>
+<li class="l-lg-3">
+<a href="https://www.facebook.com/pexels" target="_blank" rel="nofollow" title="Facebook" data-track-action="navbar" data-track-label="facebook"><i class="icon-facebook"></i></a>
+</li>
+<li class="l-lg-3">
+<a href="https://twitter.com/PexelsPhotos" target="_blank" rel="nofollow" title="Twitter" data-track-action="navbar" data-track-label="twitter"><i class="icon-twitter"></i></a>
+</li>
+<li class="l-lg-3">
+<a href="https://instagram.com/pexelsphotos/" target="_blank" rel="nofollow" title="Instagram" data-track-action="navbar" data-track-label="instagram"><i class="icon-instagram"></i></a>
+</li>
+<li class="l-lg-3">
+<a href="https://www.pinterest.com/pexels" target="_blank" rel="nofollow" title="Pinterest" data-track-action="navbar" data-track-label="pinterest"><i class="icon-pinterest"></i></a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</header>
+<div class="navbar-overlay"></div>
+<div class="l-container">
+<div class="carbon-ad carbon-ad--top-margin">
+<script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1696&serve=CKYDE2JL&placement=pexels" id="_carbonads_js"></script>
+</div>
+<div class="title title--search-info l-row l-lg-8 l-md-6 l-sm-12 title--less-margin-top">
+<h1 class="title__headline">
+Desktop Backgrounds
+</h1><div class="search-info">
+<div class="search-info__container">
+<div class="search-info__content">
+<h4 class="search-info__title">
+<i class="search-info__icon">i</i>
+Advanced search tips
+</h4>
+<ol class="search-info__text">
+<li>
+Exclude a word by adding a dash before it (E.g. <a href="/search/technology%20-apple/">technology -apple</a>)
+</li>
+<li>
+Search for colors: E.g. <a href="/search/color:%20blue/">color: blue</a>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<p class="title__text">Here we present you desktop backgrounds that you can download for free in different sizes. These desktop backgrounds work very well for all Windows 7, Windows 8 and Wndows 10 computers as well as for Apple Mac OS computers and MacBooks. </p>
+</div>
+<div class="photos">
+<article class="photo-item">
+<a class="js-photo-link" title="" href="/photo/mist-misty-fog-foggy-7919/">
+<img srcset="https://images.pexels.com/photos/7919/pexels-photo.jpg?auto=compress&amp;cs=tinysrgb&amp;h=350 1x, https://images.pexels.com/photos/7919/pexels-photo.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=350 2x" width="743" height="350" style="background:rgb(153,138,140)" class="photo-item__img" alt="Desktop background of landscape, mountains, nature, forest" data-big-src="https://images.pexels.com/photos/7919/pexels-photo.jpg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260" data-large-src="https://images.pexels.com/photos/7919/pexels-photo.jpg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" data-pin-media="https://images.pexels.com/photos/7919/pexels-photo.jpg?auto=compress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800" src="https://images.pexels.com/photos/7919/pexels-photo.jpg?auto=compress&amp;cs=tinysrgb&amp;h=350" />
+</a> <a href="https://images.pexels.com/photos/7919/pexels-photo.jpg?cs=srgb&amp;dl=landscape-mountains-nature-7919.jpg&amp;fm=jpg" download></a>
+<button class="js-like js-like-7919 btn-like btn-like--small photo-item__info" data-photo-id="7919">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-7919 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="7919">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" href="/photo/background-blur-clean-clear-531880/">
+<img srcset="https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350 1x, https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=350 2x" width="560" height="350" style="background:rgb(55,107,107)" class="photo-item__img" alt="Desktop background of cold, vehicles, water, glass" data-big-src="https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260" data-large-src="https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" data-pin-media="https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800" src="https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350" />
+</a> <a href="https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&amp;dl=cold-vehicles-water-531880.jpg&amp;fm=jpg" download></a>
+<button class="js-like js-like-531880 btn-like btn-like--small photo-item__info" data-photo-id="531880">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-531880 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="531880">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" title="" href="/photo/aerial-alpine-ceresole-reale-desktop-backgrounds-1562/">
+<img srcset="https://images.pexels.com/photos/1562/italian-landscape-mountains-nature.jpg?auto=compress&amp;cs=tinysrgb&amp;h=350 1x, https://images.pexels.com/photos/1562/italian-landscape-mountains-nature.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=350 2x" width="525" height="350" style="background:rgb(122,131,109)" class="photo-item__img" alt="Desktop background of italian, landscape, mountains, nature" data-big-src="https://images.pexels.com/photos/1562/italian-landscape-mountains-nature.jpg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260" data-large-src="https://images.pexels.com/photos/1562/italian-landscape-mountains-nature.jpg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" data-pin-media="https://images.pexels.com/photos/1562/italian-landscape-mountains-nature.jpg?auto=compress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800" src="https://images.pexels.com/photos/1562/italian-landscape-mountains-nature.jpg?auto=compress&amp;cs=tinysrgb&amp;h=350" />
+</a> <a href="https://images.pexels.com/photos/1562/italian-landscape-mountains-nature.jpg?cs=srgb&amp;dl=italian-landscape-mountains-1562.jpg&amp;fm=jpg" download></a>
+<button class="js-like js-like-1562 btn-like btn-like--small photo-item__info" data-photo-id="1562">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-1562 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="1562">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" title="" href="/photo/tree-meadow-fog-foggy-11744/">
+<img srcset="https://images.pexels.com/photos/11744/pexels-photo-11744.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350 1x, https://images.pexels.com/photos/11744/pexels-photo-11744.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=350 2x" width="525" height="350" style="background:rgb(113,92,93)" class="photo-item__img" alt="Desktop background of sunset, fog, meadow, foggy" data-big-src="https://images.pexels.com/photos/11744/pexels-photo-11744.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260" data-large-src="https://images.pexels.com/photos/11744/pexels-photo-11744.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" data-pin-media="https://images.pexels.com/photos/11744/pexels-photo-11744.jpeg?auto=compress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800" src="https://images.pexels.com/photos/11744/pexels-photo-11744.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350" />
+</a> <a href="https://images.pexels.com/photos/11744/pexels-photo-11744.jpeg?cs=srgb&amp;dl=sunset-fog-meadow-11744.jpg&amp;fm=jpg" download></a>
+<button class="js-like js-like-11744 btn-like btn-like--small photo-item__info" data-photo-id="11744">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-11744 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="11744">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" href="/photo/abendstimmung-atmospheric-background-beautiful-531872/">
+<img srcset="https://images.pexels.com/photos/531872/pexels-photo-531872.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350 1x, https://images.pexels.com/photos/531872/pexels-photo-531872.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=350 2x" width="622" height="350" style="background:rgb(104,92,75)" class="photo-item__img" alt="Desktop background of light, dawn, landscape, sky" data-big-src="https://images.pexels.com/photos/531872/pexels-photo-531872.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260" data-large-src="https://images.pexels.com/photos/531872/pexels-photo-531872.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" data-pin-media="https://images.pexels.com/photos/531872/pexels-photo-531872.jpeg?auto=compress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800" src="https://images.pexels.com/photos/531872/pexels-photo-531872.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350" />
+</a> <a href="https://images.pexels.com/photos/531872/pexels-photo-531872.jpeg?cs=srgb&amp;dl=light-dawn-landscape-531872.jpg&amp;fm=jpg" download></a>
+<button class="js-like js-like-531872 btn-like btn-like--small photo-item__info" data-photo-id="531872">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-531872 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="531872">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" href="/photo/background-beautiful-blossom-calm-waters-268533/">
+<img srcset="https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350 1x, https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=350 2x" width="525" height="350" style="background:rgb(65,77,98)" class="photo-item__img" alt="Desktop background of light, dawn, landscape, nature" data-big-src="https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260" data-large-src="https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" data-pin-media="https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?auto=compress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800" src="https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350" />
+</a> <a href="https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&amp;dl=light-dawn-landscape-268533.jpg&amp;fm=jpg" download></a>
+<button class="js-like js-like-268533 btn-like btn-like--small photo-item__info" data-photo-id="268533">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-268533 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="268533">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" title="Timelapse Photography of Falls Near Trees" href="/photo/timelapse-photography-of-falls-near-trees-707915/">
+<img srcset="https://images.pexels.com/photos/707915/pexels-photo-707915.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350 1x, https://images.pexels.com/photos/707915/pexels-photo-707915.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=350 2x" width="525" height="350" style="background:rgb(68,67,38)" class="photo-item__img" alt="Timelapse Photography of Falls Near Trees" data-big-src="https://images.pexels.com/photos/707915/pexels-photo-707915.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260" data-large-src="https://images.pexels.com/photos/707915/pexels-photo-707915.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" data-pin-media="https://images.pexels.com/photos/707915/pexels-photo-707915.jpeg?auto=compress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800" src="https://images.pexels.com/photos/707915/pexels-photo-707915.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350" />
+</a> <a href="https://images.pexels.com/photos/707915/pexels-photo-707915.jpeg?cs=srgb&amp;dl=landscape-nature-water-707915.jpg&amp;fm=jpg" download></a>
+<button class="js-like js-like-707915 btn-like btn-like--small photo-item__info" data-photo-id="707915">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-707915 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="707915">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" title="" href="/photo/architecture-background-buildings-business-218983/">
+<img srcset="https://images.pexels.com/photos/218983/pexels-photo-218983.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350 1x, https://images.pexels.com/photos/218983/pexels-photo-218983.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=350 2x" width="525" height="350" style="background:rgb(22,28,52)" class="photo-item__img" alt="Desktop background of light, sea, city, traffic" data-big-src="https://images.pexels.com/photos/218983/pexels-photo-218983.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260" data-large-src="https://images.pexels.com/photos/218983/pexels-photo-218983.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" data-pin-media="https://images.pexels.com/photos/218983/pexels-photo-218983.jpeg?auto=compress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800" src="https://images.pexels.com/photos/218983/pexels-photo-218983.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350" />
+</a> <a href="https://images.pexels.com/photos/218983/pexels-photo-218983.jpeg?cs=srgb&amp;dl=light-sea-city-218983.jpg&amp;fm=jpg" download></a>
+<button class="js-like js-like-218983 btn-like btn-like--small photo-item__info" data-photo-id="218983">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-218983 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="218983">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" title="Summer flowers" href="/photo/summer-flowers-909/">
+<img srcset="https://images.pexels.com/photos/909/flowers-garden-colorful-colourful.jpg?auto=compress&amp;cs=tinysrgb&amp;h=350 1x, https://images.pexels.com/photos/909/flowers-garden-colorful-colourful.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=350 2x" width="525" height="350" style="background:rgb(139,109,73)" class="photo-item__img" alt="A free stock photo of a lawn with colorful flowers." data-big-src="https://images.pexels.com/photos/909/flowers-garden-colorful-colourful.jpg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260" data-large-src="https://images.pexels.com/photos/909/flowers-garden-colorful-colourful.jpg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" data-pin-media="https://images.pexels.com/photos/909/flowers-garden-colorful-colourful.jpg?auto=compress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800" src="https://images.pexels.com/photos/909/flowers-garden-colorful-colourful.jpg?auto=compress&amp;cs=tinysrgb&amp;h=350" />
+</a> <a href="https://images.pexels.com/photos/909/flowers-garden-colorful-colourful.jpg?cs=srgb&amp;dl=flowers-garden-colorful-909.jpg&amp;fm=jpg" download></a>
+<button class="js-like js-like-909 btn-like btn-like--small photo-item__info" data-photo-id="909">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-909 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="909">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" title="Person on a Bridge Near a Lake" href="/photo/person-on-a-bridge-near-a-lake-747964/">
+<img srcset="https://images.pexels.com/photos/747964/pexels-photo-747964.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350 1x, https://images.pexels.com/photos/747964/pexels-photo-747964.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=350 2x" width="554" height="350" style="background:rgb(119,133,125)" class="photo-item__img" alt="Person on a Bridge Near a Lake" data-big-src="https://images.pexels.com/photos/747964/pexels-photo-747964.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260" data-large-src="https://images.pexels.com/photos/747964/pexels-photo-747964.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" data-pin-media="https://images.pexels.com/photos/747964/pexels-photo-747964.jpeg?auto=compress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800" src="https://images.pexels.com/photos/747964/pexels-photo-747964.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350" />
+</a> <a href="https://images.pexels.com/photos/747964/pexels-photo-747964.jpeg?cs=srgb&amp;dl=landscape-mountains-sky-747964.jpg&amp;fm=jpg" download></a>
+<button class="js-like js-like-747964 btn-like btn-like--small photo-item__info" data-photo-id="747964">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-747964 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="747964">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" href="/photo/background-image-beautiful-blur-bright-414586/">
+<img srcset="https://images.pexels.com/photos/414586/pexels-photo-414586.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350 1x, https://images.pexels.com/photos/414586/pexels-photo-414586.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=350 2x" width="673" height="350" style="background:rgb(145,171,34)" class="photo-item__img" alt="Desktop background of landscape, nature, water, field" data-big-src="https://images.pexels.com/photos/414586/pexels-photo-414586.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260" data-large-src="https://images.pexels.com/photos/414586/pexels-photo-414586.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" data-pin-media="https://images.pexels.com/photos/414586/pexels-photo-414586.jpeg?auto=compress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800" src="https://images.pexels.com/photos/414586/pexels-photo-414586.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350" />
+</a> <a href="https://images.pexels.com/photos/414586/pexels-photo-414586.jpeg?cs=srgb&amp;dl=landscape-nature-water-414586.jpg&amp;fm=jpg" download></a>
+<button class="js-like js-like-414586 btn-like btn-like--small photo-item__info" data-photo-id="414586">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-414586 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="414586">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" href="/photo/background-biker-clouds-daylight-207171/">
+<img srcset="https://images.pexels.com/photos/207171/pexels-photo-207171.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350 1x, https://images.pexels.com/photos/207171/pexels-photo-207171.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=350 2x" width="617" height="350" style="background:rgb(115,123,143)" class="photo-item__img" alt="Desktop background of road, clouds, vehicle, sport" data-big-src="https://images.pexels.com/photos/207171/pexels-photo-207171.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260" data-large-src="https://images.pexels.com/photos/207171/pexels-photo-207171.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" data-pin-media="https://images.pexels.com/photos/207171/pexels-photo-207171.jpeg?auto=compress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800" src="https://images.pexels.com/photos/207171/pexels-photo-207171.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350" />
+</a> <a href="https://images.pexels.com/photos/207171/pexels-photo-207171.jpeg?cs=srgb&amp;dl=road-clouds-vehicle-207171.jpg&amp;fm=jpg" download></a>
+<button class="js-like js-like-207171 btn-like btn-like--small photo-item__info" data-photo-id="207171">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-207171 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="207171">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" title="Houses Beside Body of Water and Mountains at Daytime" href="/photo/houses-beside-body-of-water-and-mountains-at-daytime-926221/">
+<img srcset="https://images.pexels.com/photos/926221/pexels-photo-926221.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350 1x, https://images.pexels.com/photos/926221/pexels-photo-926221.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=350 2x" width="528" height="350" style="background:rgb(118,143,150)" class="photo-item__img" alt="Houses Beside Body of Water and Mountains at Daytime" data-big-src="https://images.pexels.com/photos/926221/pexels-photo-926221.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260" data-large-src="https://images.pexels.com/photos/926221/pexels-photo-926221.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" data-pin-media="https://images.pexels.com/photos/926221/pexels-photo-926221.jpeg?auto=compress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800" src="https://images.pexels.com/photos/926221/pexels-photo-926221.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350" />
+</a> <a href="https://images.pexels.com/photos/926221/pexels-photo-926221.jpeg?cs=srgb&amp;dl=wood-city-landscape-926221.jpg&amp;fm=jpg" download></a>
+<button class="js-like js-like-926221 btn-like btn-like--small photo-item__info" data-photo-id="926221">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-926221 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="926221">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" title="" href="/photo/arizona-asphalt-beautiful-blue-sky-490466/">
+<img srcset="https://images.pexels.com/photos/490466/pexels-photo-490466.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350 1x, https://images.pexels.com/photos/490466/pexels-photo-490466.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=350 2x" width="466" height="350" style="background:rgb(129,157,163)" class="photo-item__img" alt="Desktop background of road, landscape, nature, sky" data-big-src="https://images.pexels.com/photos/490466/pexels-photo-490466.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260" data-large-src="https://images.pexels.com/photos/490466/pexels-photo-490466.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" data-pin-media="https://images.pexels.com/photos/490466/pexels-photo-490466.jpeg?auto=compress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800" src="https://images.pexels.com/photos/490466/pexels-photo-490466.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350" />
+</a> <a href="https://images.pexels.com/photos/490466/pexels-photo-490466.jpeg?cs=srgb&amp;dl=road-landscape-nature-490466.jpg&amp;fm=jpg" download></a>
+<button class="js-like js-like-490466 btn-like btn-like--small photo-item__info" data-photo-id="490466">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-490466 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="490466">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+<article class="photo-item">
+<a class="js-photo-link" title="" href="/photo/america-antelope-canyon-desktop-backgrounds-nature-50686/">
+<img srcset="https://images.pexels.com/photos/50686/antelope-canyon-canyon-freestone-colorful-50686.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350 1x, https://images.pexels.com/photos/50686/antelope-canyon-canyon-freestone-colorful-50686.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=350 2x" width="525" height="350" style="background:rgb(102,48,30)" class="photo-item__img" alt="Desktop background of nature, red, sun, rocks" data-big-src="https://images.pexels.com/photos/50686/antelope-canyon-canyon-freestone-colorful-50686.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260" data-large-src="https://images.pexels.com/photos/50686/antelope-canyon-canyon-freestone-colorful-50686.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" data-pin-media="https://images.pexels.com/photos/50686/antelope-canyon-canyon-freestone-colorful-50686.jpeg?auto=compress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800" src="https://images.pexels.com/photos/50686/antelope-canyon-canyon-freestone-colorful-50686.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=350" />
+</a> <a href="https://images.pexels.com/photos/50686/antelope-canyon-canyon-freestone-colorful-50686.jpeg?cs=srgb&amp;dl=nature-red-sun-50686.jpg&amp;fm=jpg" download></a>
+<button class="js-like js-like-50686 btn-like btn-like--small photo-item__info" data-photo-id="50686">
+<svg viewBox="0 0 100 100" class="icon-heart"><use xlink:href="#iconHeart"></use></svg>
+</button>
+<button class="js-collect js-collect-50686 btn-like btn-like--small btn-like--collect photo-item__info" data-photo-id="50686">
+<svg viewBox="0 0 30 30" class="icon-plus"><use xlink:href="#iconPlus"></use></svg>
+</button>
+</article>
+</div>
+<div class="js-loading hidden">
+<div class="spinner">
+<div></div><div></div><div></div><div></div>
+</div>
+<div class="ie-fallback">Fetching more photos…</div>
+</div>
+<div class="js-pagination" data-seed="2018-04-17 12:40:09 +0000">
+<div class="pagination"><span class="previous_page disabled">&#8592; Previous</span> <em class="current">1</em> <a rel="next" href="/search/desktop%20backgrounds/?page=2">2</a> <a href="/search/desktop%20backgrounds/?page=3">3</a> <a href="/search/desktop%20backgrounds/?page=4">4</a> <a href="/search/desktop%20backgrounds/?page=5">5</a> <a href="/search/desktop%20backgrounds/?page=6">6</a> <a href="/search/desktop%20backgrounds/?page=7">7</a> <a href="/search/desktop%20backgrounds/?page=8">8</a> <a href="/search/desktop%20backgrounds/?page=9">9</a> <span class="gap">&hellip;</span> <a href="/search/desktop%20backgrounds/?page=167">167</a> <a href="/search/desktop%20backgrounds/?page=168">168</a> <a class="next_page" rel="next" href="/search/desktop%20backgrounds/?page=2">Next &#8594;</a></div>
+</div>
+<div class="box js-sponsored-photos js-sponsored-photos-large" data-load-on-init=false data-url="/sponsored_photos/12/large/?query=desktop+backgrounds">
+</div>
+</div>
+</div>
+<footer class="footer">
+<div class="l-container-center">
+<div class="l-row">
+<div class="l-lg-2 l-sm-6 footer__list">
+<h5>Services</h5>
+<ul class="list-unstyled list-padding">
+<li><a href="https://videos.pexels.com/" target="_blank" data-track-action="footer" data-track-label="videos">Pexels Videos</a></li>
+<li><a href="/newsletter/" data-track-action="footer" data-track-label="newsletter">Newsletter</a></li>
+<li><a href="/blog/" target="_blank" data-track-action="footer" data-track-label="blog">Blog</a></li>
+<li><a href="http://www.designbreak.io/" target="_blank" data-track-action="footer" data-track-label="designbreak">Designbreak</a></li>
+<li><a href="/api/" data-track-action="footer" data-track-label="api">API</a></li>
+<li><a href="/faq/" data-track-action="footer" data-track-label="faq" rel="nofollow">FAQ</a></li>
+</ul>
+</div>
+<div class="l-lg-2 l-sm-6 footer__list">
+<h5>More</h5>
+<ul class="list-unstyled list-padding">
+<li><a href="/popular-photos/" data-track-action="footer" data-track-label="popular">Popular photos</a></li>
+<li><a href="/search/HD%20wallpapers/" data-track-action="footer" data-track-label="wallpapers">High definition wallpapers</a></li>
+<li><a href="/photo-license/" data-track-action="footer" data-track-label="license" title="Creative Commons Images License">Photo license</a></li>
+</ul>
+</div>
+<div class="l-lg-2 footer__list footer__list--small hidden-sm">
+<h5>Photos</h5>
+<ul class="list-unstyled list-padding">
+<li>
+<a href="/search/nature/" data-track-action="footer" data-track-label="nature">Nature images</a>,
+<a href="/search/nature%20wallpaper/" title="Nature wallpaper" data-track-action="footer" data-track-label="nature-wallpaper">wallpapers</a>
+</li>
+<li>
+<a href="/search/beach/" data-track-action="footer" data-track-label="beach">Beach pictures</a>
+</li>
+<li>
+<a href="/search/flowers/" data-track-action="footer" data-track-label="flower">Flower images</a>
+</li>
+<li>
+<a href="/search/black-and-white/" data-track-action="footer" data-track-label="bw">Black and white photography</a>
+</li>
+<li>
+<a href="/search/dog/" data-track-action="footer" data-track-label="dog">Dog images</a>
+</li>
+<li>
+<a href="/search/city/" data-track-action="footer" data-track-label="city">City pictures</a>,
+<a href="/search/new%20york%20city%20wallpaper/" data-track-action="footer" data-track-label="new-york-city-wallpaper" title="New York City wallpaper">NYC wallpaper</a>
+</li>
+<li>
+<a href="/search/desert/" data-track-action="footer" data-track-label="desert">Desert pictures</a>
+</li>
+<li>
+<a href="/search/black%20wallpaper/" data-track-action="footer" data-track-label="black-wallpaper">Black wallpaper</a>
+</li>
+<li>
+<a href="/royalty-free-images/" data-track-action="footer" data-track-label="royalty-free-images">Royalty free images</a>
+</li>
+</ul>
+</div>
+<div class="l-lg-2 footer__list footer__list--small hidden-sm">
+<ul class="list-unstyled list-padding">
+<li>
+<a href="/search/christmas/" data-track-action="footer" data-track-label="christmas">Christmas images</a>
+</li>
+<li>
+<a href="/search/car/" data-track-action="footer" data-track-label="car">Car images</a>,
+<a href="/search/car%20wallpapers/" data-track-action="footer" data-track-label="car-wallpaper">wallpapers</a>
+</li>
+<li>
+<a href="/search/people/" data-track-action="footer" data-track-label="people">Pictures of people</a>
+</li>
+<li>
+<a href="/search/business/" data-track-action="footer" data-track-label="business">Business images</a>
+</li>
+<li>
+<a href="/search/technology/" data-track-action="footer" data-track-label="technology">Technology images</a>
+</li>
+<li>
+<a href="/search/landscape/" data-track-action="footer" data-track-label="landscape">Landscape pictures</a>
+</li>
+<li>
+<a href="/search/winter/" data-track-action="footer" data-track-label="winter">Winter pictures</a>
+</li>
+<li>
+<a href="/search/sunset/" data-track-action="footer" data-track-label="winter">Sunset pictures</a>
+</li>
+<li>
+<a href="/search/desktop%20wallpaper/" data-track-action="footer" data-track-label="desktop-wallpaper">Desktop wallpaper</a>,
+<a href="/search/desktop%20backgrounds/" data-track-action="footer" data-track-label="desktop-backgrounds">backgrounds</a>
+</li>
+<li>
+<a href="/public-domain-images/" data-track-action="footer" data-track-label="public-domain-images">Public domain images</a>
+</li>
+</ul>
+</div>
+<div class="l-lg-4 l-sm-12 footer-more">
+<div class="footer-more__item social-list">
+<p class="social-list__label pull-left">Follow us:</p>
+<ul class="list-inline pull-left">
+<li>
+<a href="https://www.facebook.com/pexels" class="social-list__item" rel="publisher nofollow" target="_blank" data-track-action="footer" data-track-label="facebook">
+<i class="icon-facebook"></i>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/PexelsPhotos" class="social-list__item" rel="publisher nofollow" target="_blank" data-track-action="footer" data-track-label="twitter">
+<i class="icon-twitter"></i>
+</a>
+</li>
+<li>
+<a href="https://plus.google.com/+PexelsPhotos" class="social-list__item" rel="publisher nofollow" target="_blank" data-track-action="footer" data-track-label="gplus">
+<i class="icon-gplus"></i>
+</a>
+</li>
+<li>
+<a href="https://www.pinterest.com/pexels" class="social-list__item" rel="publisher nofollow" target="_blank" data-track-action="footer" data-track-label="pinterest">
+<i class="icon-pinterest"></i>
+</a>
+</li>
+<li>
+<a href="https://instagram.com/pexelsphotos/" class="social-list__item" rel="publisher nofollow" target="_blank" data-track-action="footer" data-track-label="instagram">
+<i class="icon-instagram"></i>
+</a>
+</li>
+</ul>
+</div>
+<p class="footer-more__item"></p>
+</div>
+</div>
+</div>
+</footer>
+<svg class="hidden">
+<defs>
+<path id="iconHeart" d="M84.417 38.466c0 5.63-2.407 10.7-6.248 14.233L50 80.866 21.832 52.7c-3.842-3.535-6.25-8.604-6.25-14.234 0-10.677 8.656-19.333 19.334-19.333 5.492 0 10.45 2.29 13.97 5.968.39.41.763.834 1.114 1.274.354-.44.725-.865 1.115-1.273 3.52-3.676 8.478-5.967 13.97-5.967 10.677 0 19.332 8.656 19.332 19.333z" />
+<path id="iconPlus" d="M15.5 6h-5.5v-5.5c0-0.276-0.224-0.5-0.5-0.5h-3c-0.276 0-0.5 0.224-0.5 0.5v5.5h-5.5c-0.276 0-0.5 0.224-0.5 0.5v3c0 0.276 0.224 0.5 0.5 0.5h5.5v5.5c0 0.276 0.224 0.5 0.5 0.5h3c0.276 0 0.5-0.224 0.5-0.5v-5.5h5.5c0.276 0 0.5-0.224 0.5-0.5v-3c0-0.276-0.224-0.5-0.5-0.5z" />
+<path id="iconCamera" d="M4.75 9.5c0 1.795 1.455 3.25 3.25 3.25s3.25-1.455 3.25-3.25-1.455-3.25-3.25-3.25-3.25 1.455-3.25 3.25zM15 4h-3.5c-0.25-1-0.5-2-1.5-2h-4c-1 0-1.25 1-1.5 2h-3.5c-0.55 0-1 0.45-1 1v9c0 0.55 0.45 1 1 1h14c0.55 0 1-0.45 1-1v-9c0-0.55-0.45-1-1-1zM8 13.938c-2.451 0-4.438-1.987-4.438-4.438s1.987-4.438 4.438-4.438c2.451 0 4.438 1.987 4.438 4.438s-1.987 4.438-4.438 4.438zM15 7h-2v-1h2v1z" />
+<path id="iconCheck" d="M9 21.035l-9-8.638 2.791-2.87 6.156 5.874 12.21-12.436 2.843 2.817z" />
+<g id="iconCirclePlus">
+<path d="M8 0c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8-3.582-8-8-8zM8 14c-3.314 0-6-2.686-6-6s2.686-6 6-6c3.314 0 6 2.686 6 6s-2.686 6-6 6z" />
+<path d="M 11.816 6.819 L 9.029 6.819 L 9.029 4.033 C 9.029 3.894 8.916 3.78 8.775 3.78 L 7.256 3.78 C 7.116 3.78 7.002 3.894 7.002 4.033 L 7.002 6.819 L 4.216 6.819 C 4.077 6.819 3.963 6.933 3.963 7.074 L 3.963 8.593 C 3.963 8.733 4.077 8.846 4.216 8.846 L 7.002 8.846 L 7.002 11.633 C 7.002 11.772 7.116 11.886 7.256 11.886 L 8.775 11.886 C 8.916 11.886 9.029 11.772 9.029 11.633 L 9.029 8.846 L 11.816 8.846 C 11.955 8.846 12.069 8.733 12.069 8.593 L 12.069 7.074 C 12.069 6.933 11.955 6.819 11.816 6.819 Z" />
+</g>
+</defs>
+</svg>
+<div class="modal js-sign-up-modal" data-sign-up-path="/sign-up-modal/">
+<div class="modal__content">
+<div class="spinner">
+<div></div><div></div><div></div><div></div>
+</div>
+<div class="ie-fallback">shared.loading.loading…</div>
+</div>
+</div>
+<div class="modal js-collection-modal">
+<div class="modal__content">
+<div class="spinner">
+<div></div><div></div><div></div><div></div>
+</div>
+<div class="ie-fallback">shared.loading.loading…</div>
+</div>
+</div>
+<div class="modal modal--photo js-photo-modal"><div class="modal__content"></div></div>
+<div class="switch-locale">
+Choose your language:
+<a rel="nofollow" hreflang="en" class="switch-locale__option js-switch-locale-btn" data-close=true>
+<img width="36" height="26" class="switch-locale__flag" src="/assets/flags/en-9ac49f52fbe3cc86ef500da8d7dfac4468c0e98419808425a9cdc1af7714cee1.png" alt="En" />
+<span>English</span>
+</a>
+<a rel="nofollow" hreflang="de" class="switch-locale__option js-switch-locale-btn" href=https://www.pexels.com/de/suche/desktop%20hintergrundbilder/>
+<img width="36" height="26" class="switch-locale__flag" src="/assets/flags/de-be3be524c1fce804f942bf1c15b700fa6c5cdec93e636b907d58e65907ab911f.png" alt="De" />
+<span>Deutsch</span>
+</a>
+<a data-close="true" class="switch-locale__close js-switch-locale-btn">✕</a>
+</div>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-50832266-1', 'auto');
+    ga('set', 'dimension2', UTIL.isSignedIn());
+    ga('set', 'anonymizeIp', true);
+      ga('send', 'pageview', '/search/?s=desktop+backgrounds&results=2519');
+
+  </script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://www.pexels.com/","potentialAction":{"@type":"SearchAction","target":"https://www.pexels.com/search/{search_term_string}/","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"Pexels","url":"https://www.pexels.com","logo":"/assets/pexels-logo-7e4af4630e66b6b786567041874586aeb1b5217589035c70a0def15aacd0f11a.png","sameAs":["https://www.facebook.com/pexels","https://twitter.com/PexelsPhotos","https://plus.google.com/+PexelsPhotos","https://www.pinterest.com/pexels/", "https://instagram.com/pexelsphotos/"]}</script>
+</body>
+</html>
